@@ -1479,3 +1479,17 @@ body {
 .cid-qQ01q8ldDx H1 {
   color: #4f4943;
 }
+.cid-qQ0Fd9knw1 {
+  background-image: url("../../../assets/images/background1.jpg");
+}
+.cid-qQ0Fd9knw1 h1 {
+  color: #616161;
+}
+.cid-qQ0Fd9knw1 h2,
+.cid-qQ0Fd9knw1 h3,
+.cid-qQ0Fd9knw1 p {
+  color: #767676;
+}
+.cid-qQ0Fd9knw1 .mbr-section-subtitle {
+  font-style: italic;
+}
